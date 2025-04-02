@@ -1,0 +1,1 @@
+Context for global task state management
