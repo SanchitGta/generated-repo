@@ -1,0 +1,1 @@
+Model for task structure (JSON schema)
