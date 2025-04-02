@@ -1,0 +1,1 @@
+Config for Vite (or equivalent for CRA)
